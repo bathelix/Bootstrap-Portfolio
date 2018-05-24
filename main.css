@@ -1,0 +1,47 @@
+.custom-padding {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.navbar-brand {
+
+   background-color: hsl(156, 6%, 85%);
+   padding: 10px;
+   border: solid;
+   border-width: 1px;
+    
+}
+
+body {
+    padding: 20px;
+}
+
+.media {
+    background-color:rgb(194, 191, 191);
+}
+
+.navbar-collapse {
+    background-color: #acc4aff3;
+}
+
+
+
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    background-color: #85b9ee;
+    margin: 100px;
+    
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+    font-size: 30px;
+  }
+
+ 
